@@ -1,0 +1,6 @@
+#!/usr/local/bin/node
+
+// change mode on the command line already invoked
+// $ chmod +x hello
+
+console.log("Hello World");
